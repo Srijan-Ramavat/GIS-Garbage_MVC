@@ -28,7 +28,7 @@
 			</div>
 			<div class="row">
 				<div class="col-md-12 fh5co-copyright text-center">
-					<p><small>&copy; 2018. All Rights Reserved. </small> <small>Made with care by <a href="#" target="_blank">Rijndael</a> College: <a href="http://www.dbit.in" target="_blank">DBIT</a></small></p>
+					<p><small>&copy; 2018. All Rights Reserved. </small> <small>Made with care by <a href="https://srijan-ramavat.github.io" target="_blank">Srijan Ramavat</a> College: <a href="http://www.dbit.in" target="_blank">DBIT</a></small></p>
 				</div>
 			</div>
 		</div>
